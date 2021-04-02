@@ -1,0 +1,6 @@
+#ifndef GLOBALS_NATIVE_LIBRARY_H
+#define GLOBALS_NATIVE_LIBRARY_H
+
+void hello(void);
+
+#endif //GLOBALS_NATIVE_LIBRARY_H

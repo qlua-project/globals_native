@@ -1,0 +1,9 @@
+;
+; Definition file for the DLL
+;
+
+LIBRARY         globals_native
+
+EXPORTS
+    luaopen_globals_native
+
